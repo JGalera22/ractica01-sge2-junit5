@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PracticaGuiadaJUnit5/PracticaGuiadaJUnit5.iml" filepath="$PROJECT_DIR$/PracticaGuiadaJUnit5/PracticaGuiadaJUnit5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ractica01-sge2-junit5.iml" filepath="$PROJECT_DIR$/.idea/ractica01-sge2-junit5.iml" />
     </modules>
   </component>
